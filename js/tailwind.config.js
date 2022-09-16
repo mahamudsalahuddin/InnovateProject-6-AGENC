@@ -7,6 +7,8 @@ tailwind.config = {
           black1: '#151515',
           grey: '#737373',
           successB: '#F8F6FE',
+          navGrey: '#A1A1A1',
+          bgC: '#F3F3F3',
         },
         maxWidth: {
             container: '1320px',
