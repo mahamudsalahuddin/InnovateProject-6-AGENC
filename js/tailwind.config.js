@@ -9,6 +9,7 @@ tailwind.config = {
           successB: '#F8F6FE',
           navGrey: '#A1A1A1',
           bgC: '#F3F3F3',
+          borderC: '#E8E8E8',
         },
         maxWidth: {
             container: '1320px',
